@@ -1,12 +1,19 @@
 # shop_app
 
-A new Flutter project.
+A new Flutter project .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this project I used the following techniques:-
+```
+---> bloc as state management.
+---> restful api (load data from server using dio).
+---> add to cart and add to favourites logic.
+---> dark and light mode.
+---> localization.
+```
 
-A few resources to get you started if this is your first Flutter project:
+![Minimalistic Aesthetic Photo Collage Phone Instagram Post-3](https://github.com/MohammedGhazy/mega-shop/assets/38404967/26f36828-81e2-45ef-abc5-bde632db8ac4)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
